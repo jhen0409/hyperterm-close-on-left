@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-close-on-left",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Close tab on left for HyperTerm",
   "main": "index.js",
   "scripts": {},
