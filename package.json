@@ -1,0 +1,17 @@
+{
+  "name": "hyperterm-close-on-left",
+  "version": "1.0.0",
+  "description": "Close tab on left for HyperTerm",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhen0409/hyperterm-close-on-left.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "close-on-left"
+  ],
+  "author": "Jhen <developer@jhen.me>",
+  "license": "MIT"
+}
